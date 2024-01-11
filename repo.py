@@ -3,4 +3,4 @@ import datetime
 
 print("hello")
 print("repo python test")
-prin("fail test")
+pri("fail test")
