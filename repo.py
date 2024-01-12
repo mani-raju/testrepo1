@@ -1,6 +1,8 @@
 import pandas
-import datetime
+from datetime import datetime, timedelta
 
 print("hello")
 print("repo python test")
-pr("fail test")
+today = datetime.today()
+today_str = today.strftime('%Y%m%d')
+print(today_str)
